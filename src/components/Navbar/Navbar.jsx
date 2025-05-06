@@ -21,7 +21,6 @@ const Navbar = () => {
             listStyle: 'none',
         }}>
             <li ><Link style={{textDecoration:'none', color:'white'}} to='/'>Auth Page</Link></li>
-            <li ><Link style={{textDecoration:'none', color:'white'}} to='/profile'>Profile Update</Link></li>
             <li ><Link style={{textDecoration:'none', color:'white'}} to='/chat'>Chat Page</Link></li>
         </ul>
     </nav>
